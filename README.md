@@ -58,8 +58,8 @@ I believe in learning by doing. Every project and lab I upload here represents m
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add your LinkedIn link here)  
-- GitHub: (this profile)  
+- LinkedIn: (https://www.linkedin.com/in/abdulazeez-quaribat-8817272b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
+- GitHub: (https://github.com/abdulazeez-cyber
 
 ---
 
