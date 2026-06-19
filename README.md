@@ -1,17 +1,16 @@
 # my-portfoli
 Hi, I’m Abdulazeez Quaribat
 
-## 🛡️ Aspiring Cybersecurity Analyst | Ethical Hacking Enthusiast
+## 🛡️ Aspiring Cybersecurity Analyst
 
-Welcome to my GitHub profile! I am currently building my skills in cybersecurity, networking, and ethical hacking through hands-on practice, labs, and continuous learning.
+Welcome to my GitHub profile! I am currently building my skills in cybersecurity, networking, through hands-on practice, labs exercises, and continuous learning.
 
 ---
 
 ## 🚀 About Me
 - 🎓 Student at Codar Tech Africa  
 - 💻 Currently learning Cybersecurity fundamentals  
-- 🔍 Practicing on TryHackMe and virtual labs  
-- 🧠 Focused on SOC analysis, networking, and vulnerability assessment  
+- 🔍 Practicing on TryHackMe and virtual labs    
 - 🌍 Based in Nigeria  
 
 ---
